@@ -1,4 +1,4 @@
-
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fPIC")
 option(SERIAL_BUILD_SHARED_LIBS "Build CppLinuxSerial shared library" OFF)
 
 if (SERIAL_BUILD_SHARED_LIBS)

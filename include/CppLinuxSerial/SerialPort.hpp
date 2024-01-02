@@ -20,7 +20,6 @@
 #include <vector>
 #include <asm/ioctls.h>
 #include <asm/termbits.h>
-#include <cstdint>
 
 // uint8_t
 #include <cstdint>
